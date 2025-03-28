@@ -1,0 +1,25 @@
+[
+    {
+      "nombreJuego": "The Legend of Zelda: Breath of the Wild",
+      "plataforma": "Nintendo Switch",
+      "idioma": "Español",
+      "genero": "Aventura",
+      "tamano": "14.4GB",
+      "precio": 59.99,
+      "imagen": "url_de_la_imagen",
+      "descripcion": "Un épico juego de aventura en mundo abierto.",
+      "stock": 10
+    },
+    {
+      "nombreJuego": "God of War",
+      "plataforma": "PlayStation 5",
+      "idioma": "Inglés",
+      "genero": "Acción",
+      "tamano": "45GB",
+      "precio": 49.99,
+      "imagen": "url_de_la_imagen",
+      "descripcion": "Kratos vuelve en esta épica historia.",
+      "stock": 5
+    }
+  ]
+  
